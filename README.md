@@ -7,7 +7,7 @@ Unlike traditional seller dashboards that show raw metrics,
 
 MarketShield AI delivers proactive, AI-driven risk alerts and business-language insights.
 
-🎯 Problem: Why Indian Sellers Need This
+### Problem: Why Indian Sellers Need This
 
 Small and mid-sized sellers on Amazon, Flipkart, and Meesho face:
 
@@ -26,7 +26,7 @@ They discover margin erosion during quarterly reviews **too late**.
 
 MarketShield AI makes risk visible early.
 
-### 💡 Solution
+## 💡 Solution
 
 MarketShield AI transforms raw transaction data into actionable risk intelligence through:
 
@@ -42,7 +42,7 @@ MarketShield AI transforms raw transaction data into actionable risk intelligenc
 
 It provides sellers with a single, interpretable risk score and contextual insights to guide decisions.
 
-### AI Approach
+## AI Approach
 
 MarketShield AI uses AI where static rule-based systems fail.
 
@@ -60,7 +60,7 @@ Risk factors are translated into business-language explanations, enabling non-te
 
 This ensures the system is adaptive, contextual, and decision-focused — not just metric-driven.
 
-### Cloud Architecture
+## Cloud Architecture
 
 MarketShield AI follows a serverless cloud-native architecture on AWS:
 
@@ -79,7 +79,7 @@ MarketShield AI follows a serverless cloud-native architecture on AWS:
 
 The system is designed for scalable SaaS deployment while maintaining strict seller data isolation.
 
-### 📊 MVP Scope
+## 📊 MVP Scope
 
 The initial MVP includes:
 
@@ -109,7 +109,7 @@ The initial MVP includes:
 
 The focus is clarity, feasibility, and meaningful AI application.
 
-### Business Model
+## Business Model
 
 Target Market: 5+ million MSME sellers in India
 
@@ -123,7 +123,7 @@ Revenue Model:
 
 MarketShield AI is positioned as an affordable AI-powered risk intelligence layer for Indian marketplace sellers.
 
-### 🏁 Hackathon Track
+## 🏁 Hackathon Track
 
 Submitted under:
 
