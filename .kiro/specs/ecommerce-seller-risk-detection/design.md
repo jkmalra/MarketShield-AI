@@ -25,7 +25,7 @@ The system uses AI/ML techniques where traditional rule-based systems fail:
 **1. Time-Series Anomaly Detection Model**:
 - **Why AI**: Pricing patterns vary by product category, seasonality, and market conditions. Static thresholds generate false positives or miss subtle anomalies.
 - **Approach**: Adaptive statistical modeling that learns normal price distributions per product and detects deviations using z-score analysis with dynamic thresholds.
-- **Value**: Reduces false alerts by 70% compared to fixed-threshold systems while catching genuine anomalies earlier.
+- **Value**: Significantly reduces false alerts compared to fixed-threshold systems while catching genuine anomalies earlier.
 
 **2. Probabilistic Risk Aggregation**:
 - **Why AI**: Risk factors interact non-linearly (e.g., high anomaly frequency + declining margins = exponentially higher risk). Simple summation fails to capture this.
